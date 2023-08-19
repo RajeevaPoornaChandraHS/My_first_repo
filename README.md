@@ -1,2 +1,2 @@
 # My_first_repo
-wine quality prediction
+wine quality prediction using machine learning algorithms 
